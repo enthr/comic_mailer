@@ -1,7 +1,5 @@
 ---
-
-## Challenge: Email a random XKCD challenge
-Description: Create a simple PHP application that accepts a visitor’s email address and emails them random XKCD comics every five minutes.
+Description: A simple PHP application that accepts a visitor’s email address and emails them random XKCD comics every five minutes.
 
 ### Folder Structure
 
